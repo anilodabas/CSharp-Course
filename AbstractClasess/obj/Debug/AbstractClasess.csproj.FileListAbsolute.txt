@@ -1,0 +1,7 @@
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\bin\Debug\AbstractClasess.exe.config
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\bin\Debug\AbstractClasess.exe
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\bin\Debug\AbstractClasess.pdb
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\obj\Debug\AbstractClasess.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\obj\Debug\AbstractClasess.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\obj\Debug\AbstractClasess.exe
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\AbstractClasess\obj\Debug\AbstractClasess.pdb

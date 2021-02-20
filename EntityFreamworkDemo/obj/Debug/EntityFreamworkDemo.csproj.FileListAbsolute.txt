@@ -1,0 +1,15 @@
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFreamworkDemo.exe.config
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFreamworkDemo.exe
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFreamworkDemo.pdb
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.Form1.resources
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.Properties.Resources.resources
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.csproj.GenerateResource.cache
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.csproj.CopyComplete
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.exe
+C:\Users\Anıl Odabaş\source\repos\CSharpCourse\EntityFreamworkDemo\obj\Debug\EntityFreamworkDemo.pdb
